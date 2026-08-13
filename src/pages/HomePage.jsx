@@ -27,10 +27,6 @@ export default function HomePage() {
       {/* หัวข้อหน้า */}
       <section className="page-heading mb-5 flex flex-col gap-4 rounded-xl bg-linear-to-r from-green-50 to-white p-5 md:flex-row md:items-center md:justify-between">
         <div>
-          <p className="eyebrow mb-1 text-xs font-bold tracking-widest text-green-700">
-            STUDENT PORTAL
-          </p>
-
           <h1 className="text-2xl font-bold leading-tight text-green-800">
             ยินดีต้อนรับเข้าสู่ระบบบริการการศึกษา
           </h1>
@@ -69,7 +65,7 @@ export default function HomePage() {
               รหัสนักศึกษา
             </span>
             <strong className="mt-1 block text-sm text-gray-800">
-              68XXXXXXX
+              6804101357
             </strong>
           </div>
 
@@ -78,7 +74,7 @@ export default function HomePage() {
               ชื่อ - นามสกุล
             </span>
             <strong className="mt-1 block text-sm text-gray-800">
-              นายตัวอย่าง นักศึกษา
+              นาย บุญญฤทธิ์ กองพรม
             </strong>
           </div>
 

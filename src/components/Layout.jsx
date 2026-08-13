@@ -52,12 +52,12 @@ export default function Layout() {
             <span>
               รหัสนักศึกษา:{" "}
               <strong className="text-green-700">
-                68XXXXXXX
+                6804101357
               </strong>
             </span>
 
             <span>
-              นายตัวอย่าง นักศึกษา
+              นาย บุญญฤทธิ์ กองพรม
             </span>
           </div>
 

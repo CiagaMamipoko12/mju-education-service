@@ -62,9 +62,6 @@ export default function EnrollmentPage() {
     <>
       {/* หัวข้อหน้า */}
       <section className="page-heading mb-5 rounded-xl bg-linear-to-r from-green-50 to-white p-5">
-        <p className="eyebrow mb-1 text-xs font-bold tracking-widest text-green-700">
-          ENROLLMENT
-        </p>
 
         <h1 className="text-2xl font-bold text-green-800">
           ผลการลงทะเบียน
